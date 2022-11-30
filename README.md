@@ -4,5 +4,8 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto muito de videogames, principalmente hack'n'slash, e adoraria programar jogos um dia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayViIsHere&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayViIsHere&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/JayViIsHere">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JayViIsHere&theme=great-gatsby">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayViIsHere&theme=great-gatsby">
+</div>
