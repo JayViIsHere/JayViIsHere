@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, eu sou o JayVi 👋
 
 - 📖 Atualmente estudo programação e desenvolvimento de sistemas
 - 😄 Pronomes: ele/dele
